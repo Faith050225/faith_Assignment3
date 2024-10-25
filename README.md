@@ -1,6 +1,6 @@
 
 
-###Skills Training App
+Skills Training App
 
 This is a React Native mobile app designed for the Empowering the Nation initiative. It provides course information, allows users to register for courses, calculate course quotes, and contact the organization.
 
@@ -24,7 +24,7 @@ License
 
 ---
 
-###Features
+Features
 
 Display available courses with detailed descriptions.
 
@@ -150,17 +150,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
----
 
-Contact
-
-For inquiries or support, please contact:
-
-Email: example@email.com
-
-Phone: +27 123 456 789
-
-Location: Embedded Google Map available in the Contact section of the app.
 
 
 
