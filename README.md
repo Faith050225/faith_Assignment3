@@ -1,6 +1,6 @@
 
 
-Skills Training App
+###Skills Training App
 
 This is a React Native mobile app designed for the Empowering the Nation initiative. It provides course information, allows users to register for courses, calculate course quotes, and contact the organization.
 
@@ -24,7 +24,7 @@ License
 
 ---
 
-Features
+###Features
 
 Display available courses with detailed descriptions.
 
